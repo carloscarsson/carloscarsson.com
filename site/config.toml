@@ -1,3 +1,4 @@
 baseurl = "/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "sv-se"
+title = "Carl Oscarsson"
+theme = "carloscarsson"
