@@ -2,3 +2,6 @@ baseurl = "/"
 languageCode = "en-en"
 title = "Carl Oscarsson"
 theme = "carloscarsson"
+
+[permalinks]
+  blog = "/:year/:month/:title/"
